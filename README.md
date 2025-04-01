@@ -25,16 +25,16 @@
 
 ## 💾 자료 (KCSI(한국컴퓨터정보학회) 2025 동계학술대회)
 ### # 우수논문상 
-<a href="https://github.com/0206cho/Performance_Comparison_in_Real-Time_Data_Processing_Systems_with_Spring_DB/blob/main/libs/KCSI_%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%AE%E1%86%AF%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC.pdf">
+<a href="https://github.com/gbr7780/Performance_Comparison_in_Real-Time_Data_Processing_Systems_with_Spring_DB/blob/main/libs/KCSI_%EB%8F%99%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81%EC%9E%A5.pdf">
   📄 자료 보기
 </a>
 
 ### # 발표자료
-<a href="https://github.com/0206cho/Performance_Comparison_in_Real-Time_Data_Processing_Systems_with_Spring_DB/blob/main/libs/KSCI_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_HC-O-2.pdf">
+<a href="https://github.com/gbr7780/Performance_Comparison_in_Real-Time_Data_Processing_Systems_with_Spring_DB/blob/main/libs/KSCI_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_HC-O-2.pdf">
   📄 자료 보기
 </a>
 
 ### # 학술대회 논문
-<a href="https://github.com/0206cho/Performance_Comparison_in_Real-Time_Data_Processing_Systems_with_Spring_DB/blob/main/libs/2025%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%AE%E1%86%AF%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC%20%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB.pdf">
+<a href="https://github.com/gbr7780/Performance_Comparison_in_Real-Time_Data_Processing_Systems_with_Spring_DB/blob/main/libs/2025%EB%85%84%20%EB%8F%99%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%85%BC%EB%AC%B8.pdf">
   📄 자료 보기
 </a>
